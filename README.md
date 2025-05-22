@@ -5,7 +5,7 @@ A comprehensive GNU Radio Companion (GRC) flowgraph and supporting Python script
 
 ## Project Overview
 Use an RTL-SDR dongle and GNU Radio Companion to:
-- **Tune** to the NOAA APT SSTV downlink at **137.1 MHz**
+- **Tune** to the NOAA APT SSTV downlink at **106 MHz**
 - **Visualize** incoming RF:
   - Instantaneous FFT (**Live Spectrum**)
   - Scrolling time-history **Waterfall**
