@@ -1,6 +1,6 @@
 # Live Spectrum & Waterfall Scanner
 
-A comprehensive GNU Radio Companion (GRC) flowgraph and supporting Python script for real-time visualization, demodulation, and recording of the NOAA APT downlink at 137.1 MHz. This project demonstrates the full software-defined radio pipeline—from RF capture to image decoding—and serves as a teaching and research demonstration.
+A comprehensive GNU Radio Companion (GRC) flowgraph and supporting Python script for real-time visualization, demodulation, and recording of the NOAA APT downlink at 106 MHz. This project demonstrates the full software-defined radio pipeline—from RF capture to image decoding—and serves as a teaching and research demonstration.
 
 ---
 
