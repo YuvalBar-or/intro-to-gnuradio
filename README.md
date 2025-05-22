@@ -19,7 +19,6 @@ This end-to-end SDR example is ideal for labs, demonstrations, or prototype deve
 
 ## Hardware Requirements
 - **RTL-SDR USB dongle** (e.g., RTL2832U)  
-- **VHF antenna** (whip or patch, tuned near 137 MHz)  
 - **PC** with GNU Radio and Python support (Linux/macOS/Windows)  
 
 ---
@@ -27,8 +26,6 @@ This end-to-end SDR example is ideal for labs, demonstrations, or prototype deve
 ## Software Requirements
 - **GNU Radio Companion** (version ≥ 3.7) with Osmocom module  
 - **Python 3.7+**  
-- **Optional:** SSTV decoder (e.g., QSSTV, WXtoImg) for weather image reconstruction  
-
 ---
 
 ## Flowgraph Architecture
